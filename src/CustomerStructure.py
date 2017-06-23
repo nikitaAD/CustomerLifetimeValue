@@ -1,5 +1,5 @@
 """
-Event is the parent class. Hold the customer_id and event_time.
+Event is the parent class. Holds the customer_id and event_time.
 Customer, SiteVisit, ImageUpload and Order are children of Event class.
 Setter and Getter methods for members of the classes respectively.
 """

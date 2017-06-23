@@ -1,0 +1,1 @@
+Customer_id= 96f55c7d8f42 : SimpleLTV= 6416.799999999999
